@@ -3,12 +3,36 @@
 }
 
 header {
-    background-color: antiquewhite;
-    background: white;
-    position: relative;
+    height: 100px;
+    width: 100%;
+    color: white;
+    background: rgb(15, 80, 15);
+    position: fixed;
+    border-bottom: 10px solid orange;
+
 }
 
-li {
+#heading {
     position: relative;
-    left 50px;
+    margin: auto;
+    padding-top: 200px ;
+    text-align: center;
+    height: 400px;
+    width: 600px;
+}
+
+h1 {
+    position: center;
+}
+
+p {
+    position: relative;  
+    margin: 0;
+    padding-left: 1300px;
+    padding-top: 10px;
+    padding right: 0px;
+}
+
+footer {
+    position: absolute;
 }
