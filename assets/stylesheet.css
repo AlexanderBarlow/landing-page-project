@@ -1,0 +1,14 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    background-color: antiquewhite;
+    background: white;
+    position: relative;
+}
+
+li {
+    position: relative;
+    left 50px;
+}
